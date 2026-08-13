@@ -45,7 +45,7 @@
 
 [Bazzite](https://bazzite.gg/) es una imagen OCI que sirve como un sistema operativo alterno para la [Steam Deck](https://www.steamdeck.com/), y como un sistema tipo SteamOS listo para jugar para computadoras de
 escritorio, computadoras para cine en casa (HTPC), y un sinnúmero de
-otras computadoras portátiles.
+otras computadoras portátiles. Este readme cubrirá todo en profundidad.
 
 Bazzite es creado con [ublue-os/main](https://github.com/ublue-os/main) y [ublue-os/nvidia](https://github.com/ublue-os/nvidia) usando tecnología de [Fedora](https://fedoraproject.org/), lo que significa un soporte expandido de hardware y drivers incluidos. Adicionalmente, Bazzite añade las siguientes características:
 
